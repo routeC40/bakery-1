@@ -1,0 +1,738 @@
+*
+{
+    padding: 0PX;
+    margin: 0PX;
+}
+
+
+
+.home
+{
+
+    background: rgb(153, 153, 153) url(drew-coffman-1872.jpg);
+    width: 100%;
+
+
+    background-repeat: no-repeat;
+    background-position: center center;
+    color: white;
+    background-blend-mode: darken;
+    background-size: cover;
+    text-align: center;
+    padding-top: 1px;
+    padding-bottom: 110px;
+    
+    
+}
+
+.home1
+{
+    text-align: left;
+    position: fixed;
+    
+}
+
+.home1 img
+{
+    width: 12%;
+    height: 6%;
+    padding-right: 450px;
+    padding-left: 200px;
+    padding-top: 20px;
+    
+    
+}
+
+.home1 a
+{
+    text-decoration: solid;
+    color: white;
+    padding: 30px 15px;
+    line-height: 1.66em;
+    vertical-align: super;
+    font-weight: 500;
+    font-family: "Alegreya Sans";
+
+    
+    
+}
+
+.text {
+    width: 100%;
+    line-height: 1.66em;
+    text-align: center;
+    margin: auto;
+    padding-top: 180px;
+    padding-bottom: 120px;
+
+}
+
+.text1 {
+    color: white;
+    font-size: 22px;
+    font-family: "Alegreya Sans";
+    line-height: 1.86em;
+
+}
+
+.text2 {
+    color: white;
+    font-size: 80px;
+    font-style: italic;
+    font-family: "Alegreya Sans";
+    line-height: 1.86em;
+
+
+}
+
+.text3 {
+    color: white;
+    font-family: "Alegreya Sans";
+    font-size: 20px;
+    line-height: 1.86em;
+    padding-bottom: 20PX; ;
+
+}
+
+.b1 {
+    background-color:#8e7754;
+    display: inline-block;
+    border: 2px;
+    text-decoration: solid;
+    color: white;
+    padding: 15px 28px;
+    border-radius: 4px;
+}
+
+.b2 {
+    text-decoration: solid;
+    color: white;
+    padding: 18px 28px;
+    border-radius: 4px;
+    border: 2px solid white;
+    background-color: transparent;
+    margin-left: 5px;
+}
+
+
+.b1:hover {
+    color: black;
+    background-color: white;
+}
+
+
+.b2:hover {
+    color: black;
+    background-color: white;
+}
+
+
+
+.demo {
+    background-color: white;
+    width: 100%;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+.demo1 {
+    background-color: black;
+    margin: 60px 80px 70px 150px ;
+
+    
+    width: 38%;
+    float: left;
+}
+
+.demo1 img {
+    width: 100%;
+
+
+}
+
+.demo2 {
+    
+    width: 38%;
+    float: left;
+    margin-top: 100px;
+    margin-bottom: 60px;
+
+      
+}
+
+
+.demo2 h1
+{
+    padding-bottom:15px ;
+    text-align: center;
+}
+
+.demo2 p
+{
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+
+p {
+    line-height: 1.79em;
+    color: #686868;
+}
+
+.demo3
+{
+    padding:15px;
+}
+
+.demo3 img {
+    padding: 10px;
+    width: 22px;
+    height: 22px;
+    border-radius: 80%;
+    border: 1px solid gray;
+    background-color: white;
+    vertical-align:middle;
+    margin-right: 10px;
+    
+   
+    
+}
+
+.demo3 h3 {
+    display: inline-block;
+    text-align: center;
+    
+    
+
+    
+}
+
+.clr
+{
+    clear: both;
+}
+
+
+.icon
+{
+    background-color:#f8f8f8;
+    width: 100%;
+    
+   
+}
+
+.icon1
+{
+    width: 35%;
+    float: left;
+    margin-top: 150px;
+    margin-bottom: 70px;
+    margin-left: 150px;
+    padding-right: 58px;
+
+}
+
+.icon1 h1
+{
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+.icon1 .para
+{
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+
+
+.icon2
+{
+    
+    width: 35%;
+    float: left;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    text-align: right;
+    
+}
+
+.icon2 img
+{
+    width: 100%;
+    padding-left: 80px; 
+
+}
+
+.clr
+{
+    clear: both;
+}
+
+
+
+.page4
+{
+    width: 100%;
+    padding-bottom: 50px;
+}
+
+
+.center
+{
+    text-align: center;
+    padding-bottom: 50px;
+    padding-top: 70px;
+    
+   
+}
+
+
+.center h2
+{
+    padding: 20px;
+}
+
+.Baking
+{
+    width: 25%;
+    float: left;
+    padding-left: 150px;
+    text-align: center;
+
+}
+.Baking1 img
+{
+    width: 100%;
+}
+.Baking2 h2
+{
+    width: 100%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+
+.Bagels
+{
+    width: 25%;
+    float: left;
+    margin-left: 40px;
+    margin-right: 40px;
+    text-align: center;
+
+}
+.Bagels1 img
+{
+    width: 100%;
+}
+.Bagels2 h2
+{
+    width: 100%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.Cookies
+{
+    width: 25%;
+    float: left;
+    text-align: center;
+
+}
+.Cookies1 img
+{
+    width: 100%;
+}
+.Cookies2 h2
+{
+    width: 100%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+
+.page5
+{
+    background-color: #f8f8f8;
+    width: 100%;
+    padding-top: 20px;
+
+}
+
+
+
+.part1
+{
+    width: 40%;
+    float: left;
+    margin-top: 90px;
+    margin-bottom: 70px;
+    padding-left: 150px;
+
+}
+
+.part1 h1
+{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+.part1p
+{
+    text-align: center;
+}
+
+.part1 .pa
+{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    
+
+}
+
+
+
+
+.data1 
+{
+    padding-top: 15px;
+    
+   padding-bottom: 10px;
+   
+}
+
+.part2
+{
+    width: 100%;
+    vertical-align: middle;
+    float: left;
+
+}
+
+.part2 img {
+
+
+    padding: 5px;
+    width: 22px;
+    height: 22px;
+    border-radius: 80%;
+    border: 1px solid #8e7754;
+    background-color: #8e7754;
+    vertical-align:middle;
+    margin-right: 10px;  
+    
+    
+}
+
+
+.part2 h3
+{
+    display: inline-block;
+}
+
+
+.data2
+{
+    
+    width: 37%;
+    float: left;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    text-align: right;
+    
+    
+}
+
+.data2 iframe
+{
+    width: 100%;
+    height: 70vh;
+    padding-left: 80px; 
+    
+}
+
+
+
+
+
+
+
+
+.page6
+{
+    width: 100%;
+    background-color: #403d38;
+    padding-top: 60px;
+    padding-bottom: 60px;
+       
+}
+
+
+.sec1
+{
+    width: 20%;
+    float: left;
+    padding-left: 140px;
+}
+.sec1 h4
+{
+    color: white;
+    font-size: 18px;
+    opacity: 1;
+    font-family: "Alegreya";
+    margin-bottom: 25px;
+    line-height: 1.38em;
+    font-weight: 400;
+}
+.sec1 p
+{
+    color: #969696;
+}
+
+.para1 
+{
+    margin-bottom: 15px;
+}
+
+.tl
+{
+    width: 20%;
+    float: left;
+    padding-left: 30px;
+ }
+ .tl h4
+ {
+    color: white;
+    font-size: 18px;
+    opacity: 1;
+    font-family: "Alegreya";
+    margin-bottom: 25px;
+    line-height: 1.38em;
+    font-weight: 400;
+ }
+
+ .tl ul
+ {
+    
+    line-height: 250%; 
+    list-style-type: none;
+    color: #969696;
+    font-family: "Alegreya Sans"
+ }
+
+
+
+ .tl1 li
+ {
+    border-bottom: 1px solid rgba(255,255,255,0.05);
+    color: #969696;
+    font-family: "Alegreya Sans"
+    
+ }
+.tl ul li::before
+{
+    content: ">";
+    color: rgba(255, 255, 255, 0.34);
+    font-family: FontAwesome;
+    padding-right: 8px; 
+}
+
+
+.sec2
+{
+    width: 15%;
+    float: left;
+    padding-right: 30px;
+    padding-left: 30px;
+
+
+  
+}
+.sec2 h4{
+    color: white;
+    font-size: 18px;
+    opacity: 1;
+    font-family: "Alegreya";
+    margin-bottom: 25px;
+    line-height: 1.38em;
+    font-weight: 400;
+}
+
+
+.sec2 ul li
+{
+    border-bottom: 1px solid rgba(255,255,255,0.05);
+    line-height: 250%; 
+    list-style-type: none;
+    color: #969696;
+    font-family: "Alegreya Sans"
+
+}
+
+.sec2 ul li::before
+{
+    content: ">";
+    color: rgba(255, 255, 255, 0.34);
+    font-family: FontAwesome;
+    padding-right: 8px; 
+}
+
+
+.sec3 
+{
+    width: 20%;
+    float: left;
+    background: url(contact-details-map.png) ;
+    
+    background-repeat:no-repeat;
+    background-position: center center; 
+   
+    
+}
+
+.sec3::before
+{
+    
+    opacity: 0.11  
+}
+.sec4
+{
+    color: white;
+    font-size: 18px;
+    opacity: 1;
+    font-family: "Alegreya";
+    margin-bottom: 25px;
+    line-height: 1.38em;
+    font-weight: 400;
+}
+
+
+
+.sec5 h4
+{
+    line-height: 1.79em;
+    color: #969696;
+    font-family: "Alegreya";
+    vertical-align: top;
+    display: inline-block;
+
+    
+    
+
+}
+
+.sec6 h4
+{
+    line-height: 1.79em;
+    color: #969696;
+    font-family: "Alegreya";
+    padding-top: 12px;
+    
+
+}
+.sec3 img
+{
+    padding: 5px;
+    width: 22px;
+    height: 22px;
+    border-radius: 80%;
+    border: 1px solid #403d38;
+    background-color: #403d38;
+    vertical-align:middle;
+    margin-right: 10px;
+}
+
+.sec3 h4
+{
+    display: inline-block;
+    font-family: "Alegreya Sans"
+    
+}
+
+
+.clr
+{
+    clear: both;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.page7
+{
+    width: 100%;
+    background-color: #353330;
+}
+
+.leval1 
+{
+    width: 80%;
+    text-align: center;
+    margin: auto;
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+.leval1 p
+{
+    padding-top: 20px;
+}
+
+.leval2
+{
+    width: 100%;
+    text-align: center;
+    margin: auto;
+    padding-bottom: 60px;
+}
+
+.leval2 img
+{
+    width: 40px;
+    height: 35px;
+    border-radius: 100%;
+    
+}
+    
+
+
+
+
+.a1 img:hover
+{
+    color: white;
+    background-color: blue;
+}
+
+
+
+
+
+
